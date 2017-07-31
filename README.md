@@ -15,8 +15,8 @@ Now click on "Decode from local YUV Video" , it will start decoding same stream 
 
 <b>Task :</b>
 
-Instead of Showing Images on surface View , we want to store every Image in our gallery. For this We have to make changes in our decoding files. 
+Instead of Showing Images on surface View from decoding a file , we want to store every Image in our gallery. For this We have to make changes in our decoding files. 
 
 Let me know if you get any queries, Contact me at himanshu@movense.com
 
-Best of Luck
+<b> Best of Luck </b>
